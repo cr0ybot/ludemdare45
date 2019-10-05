@@ -1,0 +1,24 @@
+{
+  "name": "ludemdare45",
+  "version": "0.1.0",
+  "description": "Ludem Dare 45: Start from Nothing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Ludem Dare 45\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cr0ybot/ludemdare45.git"
+  },
+  "keywords": [
+    "ludem",
+    "dare"
+  ],
+  "author": "Cory Hughart <cory@coryhughart.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cr0ybot/ludemdare45/issues"
+  },
+  "homepage": "https://github.com/cr0ybot/ludemdare45#readme",
+  "private": true
+}
